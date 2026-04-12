@@ -2,5 +2,5 @@
 
 - 🔭 Atualmente procurando trabalhos ligados a Front-end
 - 🌱 Aprendendo sobre IA
-- 📫 Contato: carlso76340@gmail.com
+- 📫 Contato: carlos76340@gmail.com
 - 😄 Pronouns: ele/dele
