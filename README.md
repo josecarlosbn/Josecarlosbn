@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo José Carlos Neto, tenho 20 anos e sou natural do estado de São Paulo. Concluí o ensino médio no EEJT, com o curso técnico em informática Básica. Atualmente, estou cursando Ciências da computação na USC.
+Me chamo José Carlos Neto, tenho 20 anos e sou natural do estado de São Paulo. Concluí o ensino médio no EEJT, com o curso técnico em informática. Atualmente, estou cursando ciências da computação na USC.
 
 <p align="left">
     <a href="https://github.com/josecarlosbn?tab=repositories&sort=stargazers">
